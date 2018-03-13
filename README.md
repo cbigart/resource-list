@@ -7,25 +7,26 @@ Through out my college education we learned about famous Graphic Designers like 
 
 Over the years I have sifted through many different websites, resources, podcasts, and people that do great work and are very inspiring to follow. Below is the list.
 
-- I am also learning markdown formatting in the process.
+*I am also learning markdown formatting in the process.*
 
 
-### Articles
+#### Articles
 
 
-### Books
+#### Books
 
 
-### Designers
+#### Designers
 
 
-### Developers
+#### Developers
 
 
-### Podcasts
+#### Podcasts
 
 
-### Websites
-[Ask Playbook](https://askplaybook.com/) - Playbook is actionable career advice for designers
+#### Websites
+[Ask Playbook](https://askplaybook.com/) - Playbook is actionable career advice for designers.
+[Dribbble](https://dribbble.com/) - Dribbble is a place to show and tell, promote, discover, and explore design.
 
 
