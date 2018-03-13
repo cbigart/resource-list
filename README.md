@@ -26,7 +26,7 @@ Over the years I have sifted through many different websites, resources, podcast
 
 
 #### Websites
-[Ask Playbook](https://askplaybook.com/) - Playbook is actionable career advice for designers.
-[Dribbble](https://dribbble.com/) - Dribbble is a place to show and tell, promote, discover, and explore design.
+- [Ask Playbook](https://askplaybook.com/) - Playbook is actionable career advice for designers.
+- [Dribbble](https://dribbble.com/) - Dribbble is a place to show and tell, promote, discover, and explore design.
 
 
