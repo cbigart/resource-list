@@ -1,5 +1,5 @@
 # Resource List
-*Last Updated 2/12/18*
+*Last Updated 2/19/18*
 
 
 ## Overview
@@ -19,10 +19,8 @@ Over the years I have sifted through many different websites, resources, podcast
 - [The Subtle Art of Not Giving A Fuck by Mark Manson](https://markmanson.net/books/subtle-art) - A counterintuitive approach to living a good life.
 
 
-### Designers
-
-
-### Developers
+### People
+- [Wouter de Bres](http://wouterdebr.es/) - Product designer at Degreed
 
 
 ### Podcasts
