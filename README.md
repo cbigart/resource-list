@@ -10,6 +10,10 @@ Over the years I have sifted through many different websites, resources, podcast
 *I am also learning markdown formatting in the process.*
 
 
+## Agencies
+- [Ben Bate](https://benbate.com/) - Freelance Product Designer
+
+
 ### Articles
 [How to get value from wireframes by Dustin Senos](https://medium.com/@dustin/how-to-get-value-from-wireframes-f40c2cf27960)
 
@@ -20,6 +24,7 @@ Over the years I have sifted through many different websites, resources, podcast
 
 
 ### People
+- [Ben Bate](https://benbate.com/) - Freelance Product Designer
 - [Wouter de Bres](http://wouterdebr.es/) - Product designer at Degreed
 
 
