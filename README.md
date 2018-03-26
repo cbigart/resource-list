@@ -1,5 +1,4 @@
 # Resource List
-*Last Updated 2/19/18*
 
 
 ## Overview
