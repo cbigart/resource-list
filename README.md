@@ -7,9 +7,9 @@ Through out my college education we learned about famous Graphic Designers like 
 Over the years I have sifted through many different websites, resources, podcasts, and people that do great work and are very inspiring to follow.
 
 *I am also learning markdown formatting in the process.*
+=================
 
-
-## Agencies
+### Agencies
 - [Ben Bate](https://benbate.com/) - Freelance Product Designer
 
 
