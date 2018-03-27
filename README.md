@@ -55,14 +55,18 @@ Over the years I have sifted through many different websites, resources, podcast
 * [Gene Ross](http://geneross.co/) - Designer at Ueno
 * [Jacob Souva](http://www.twofishillustration.com/) - Kid lit illustrator & designer
 * [Jamie Brittain](http://jamiebrittain.com/) - Product designer & front-end developer at Fatsoma
+* [Janum Trivedi](http://janumtrivedi.com/) - Software engineer
 * [Jared Erondu](https://twitter.com/erondu) - Design lead at Lattice
 * [Jeremy Booth](http://www.jeremy-booth.com/) - Artist & Illustrator
 * [Joel Califa](http://joelcalifa.com/) - Deisgner at Github
 * [Jon Gold](https://jon.gold/) - Technologist at AirBnB
 * [Jonnie Hallman](https://cushionapp.com/) - Founder of Cushion App
+* [Jord Riekwel](http://larkef.com/) - Logo and brand designer
+* [Katie Vaz](http://katievaz.com/) - Author of Don't Worry, Eat Cake, illustrator
 * [Kevin Rose](https://www.kevinrose.com/about) - Host of the Kevin Rose show, creator of Digg
 * [Linda Eliasen](http://lindaeliasen.com/) - Creative director, and design manager
 * [Matt Martin](https://dribbble.com/mrtnmatt) - Designer at Hyrep Co and Bytsee Co
+* [Matt Smith](http://mds.is/matt/) - Owner and Design Director of Studio Mds
 * [Matt Spiel](http://mattspiel.com/) - Design Manager at Lyft
 * [Matt Yow](http://mattyow.com/) - Graphic designer specializing in brand strategy working at Intercom
 * [Maximilian Hennebach](https://www.youtube.com/channel/UCSdp5logiFTM3SyLJrHabOQ) - Designer at the peak lab
@@ -70,6 +74,7 @@ Over the years I have sifted through many different websites, resources, podcast
 * [Meg Robichaud](https://dribbble.com/megdraws) - Illustrator at Lyft
 * [Mengo To](https://www.designcode.io/) - Author of Design+Code
 * [Michael Flarup](http://flarup.co/) - Designer, entrepreneur and keynote speaker
+* [Nathan Riley](https://dribbble.com/nathanriley) - Design director / Co-founder or Green Chameleon
 * [Nicholas Moegly](http://www.nicholasmoegly.com/) - Illustrator & designer
 * [Nick Jones](http://narrowdesign.com/) - Freelance designer & developer
 * [Nick Slater](http://www.nicholasslater.co/) - Designer at Slack
