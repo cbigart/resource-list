@@ -62,6 +62,7 @@ Over the years I have sifted through many different websites, resources, podcast
 * [Jon Gold](https://jon.gold/) - Technologist at AirBnB
 * [Jonnie Hallman](https://cushionapp.com/) - Founder of Cushion App
 * [Jord Riekwel](http://larkef.com/) - Logo and brand designer
+* [Jules Forrest](https://julesforrest.com/) - Designer at Credit Karma
 * [Katie Vaz](http://katievaz.com/) - Author of Don't Worry, Eat Cake, illustrator
 * [Kevin Rose](https://www.kevinrose.com/about) - Host of the Kevin Rose show, creator of Digg
 * [Linda Eliasen](http://lindaeliasen.com/) - Creative director, and design manager
@@ -82,6 +83,7 @@ Over the years I have sifted through many different websites, resources, podcast
 * [Rocky Roark](https://www.rockyroark.com/) - Freelance illustrator & branding designer
 * [Rogie King](http://rog.ie/) - Designer, illustrator & developer
 * [Ryan Putnam](http://ryanputn.am/) - Designer, illustrator & potter
+* [Roxane Clediere](http://roxane.me/) - Product Designer at Facebook
 * [Sam Soffes](https://soff.es/) - Developer & designer at Lyft
 * [Sam Stratton](http://www.strattonsam.com/) - Designer at Reddit
 * [Scott Martin](http://burnttoastcreative.com/) - Freelance Illustrator
